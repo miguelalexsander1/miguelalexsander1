@@ -1,5 +1,9 @@
 ### Hi there 👋
-ola mundo
+"Olá, meu nome é Miguel  alexsander e sou um estudante de Cloud entusiasmado em aprender e explorar as infinitas possibilidades da computação em nuvem. Estou sempre procurando maneiras de aprimorar minhas habilidades e conhecimentos em serviços de nuvem, como AWS, Google Cloud e Microsoft Azure.
+
+Com uma forte paixão por tecnologia e inovação, estou constantemente buscando desafios que possam ajudar a expandir meu conhecimento e habilidades. Além disso, tenho experiência em redes
+
+Neste GitHub, você encontrará alguns dos meus projetos e trabalhos relacionados à nuvem, onde aplico meu conhecimento teórico e prático. Sinta-se à vontade para explorar meus repositórios e me contatar para colaborações, discussões ou qualquer dúvida relacionada à computação em nuvem. Estou sempre aberto a novas ideias e oportunidades para crescer em minha carreira."
 <!--
 **miguelalexsander1/miguelalexsander1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
