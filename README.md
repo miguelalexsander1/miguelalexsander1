@@ -1,20 +1,25 @@
-### Hi there 👋
-"Olá, meu nome é Miguel  alexsander e sou um estudante de Cloud entusiasmado em aprender e explorar as infinitas possibilidades da computação em nuvem. Estou sempre procurando maneiras de aprimorar minhas habilidades e conhecimentos em serviços de nuvem, como AWS, Google Cloud e Microsoft Azure.
+## 🧐 Miguel Alexsander do Nascimento
+Olá, prazer em conhecê-lo!! Sou um estudante de *desenvolvimento e computação em nuvem* ☁ movido por desafios e com uma paixão enorme por aprender.
 
-Com uma forte paixão por tecnologia e inovação, estou constantemente buscando desafios que possam ajudar a expandir meu conhecimento e habilidades. Além disso, tenho experiência em redes
+**Pós graduadao em Estrutura e Gestão de Redes**
 
-Neste GitHub, você encontrará alguns dos meus projetos e trabalhos relacionados à nuvem, onde aplico meu conhecimento teórico e prático. Sinta-se à vontade para explorar meus repositórios e me contatar para colaborações, discussões ou qualquer dúvida relacionada à computação em nuvem. Estou sempre aberto a novas ideias e oportunidades para crescer em minha carreira."
-<!--
-**miguelalexsander1/miguelalexsander1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Microsoft Certified Azure Fundamentals**   
 
-Here are some ideas to get you started:
+Atualmente na *Formação Cloud no AWS*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses e Atividades 📝
+
+*Profissional e estudante de tecnologia Salesforce/DevOps/Cloud em desenvolvimento.*
+
+Principais interesses e ferramentas:
+- AWS/AZC/GCP;
+- Desenvolvimento: HTML/CSS, Android Studio, Java;
+
+* e sou um entusiasta de tecnologia com um grande interesse em todas as áreas de redes, computação, jogos e inteligência artificial.
+
+## Tecnologias e Ferramentas com alguma experiência 💻
+
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)       ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)        ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)       ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)       ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)      ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)       !
+ 
+##  Contato 📱
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-alexsander-do-nascimento-06b160213/)     [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:miguelrockalexsander@gamil.com)
