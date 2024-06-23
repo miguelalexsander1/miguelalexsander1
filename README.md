@@ -3,6 +3,8 @@ Olá, prazer em conhecê-lo!! Sou um estudante de *desenvolvimento e computaçã
 
 **Pós graduadao em Estrutura e Gestão de Redes**
 
+**AWS Certified Solutions Architect – Associate**
+**AWS Certified Cloud Practitioner**
 **Microsoft Certified Azure Fundamentals**   
 
 Atualmente na *Formação Cloud no AWS*
@@ -15,7 +17,7 @@ Principais interesses e ferramentas:
 - AWS/AZC/GCP;
 - Desenvolvimento: HTML/CSS, Android Studio, Java;
 
-* e sou um entusiasta de tecnologia com um grande interesse em todas as áreas de redes, computação, jogos e inteligência artificial.
+* E sou um entusiasta de tecnologia com um grande interesse em todas as áreas de redes, computação, jogos e inteligência artificial.
 
 ## Tecnologias e Ferramentas com alguma experiência 💻
 
